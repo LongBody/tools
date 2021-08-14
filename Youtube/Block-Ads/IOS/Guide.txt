@@ -1,0 +1,19 @@
+Trước tiên, bạn cần chuẩn bị những ứng dụng như bên dưới.
+
+Cài đặt trên máy tính: iTunes phiên bản mới nhất. Lưu ý: Với Windows thì bạn chọn tải ngoài Microsoft Store nhé.
+Cài đặt trên máy tính: iCloud phiên bản mới nhất. Lưu ý: Chọn mục Download iCloud for Windows on Apple's website.
+
+Bước 1. Bạn cài trên máy tính công cụ AltStore.
+
+Bước 2. Kết nối iPhone với máy tính, nhấn vào biểu tượng hình thoi trên Taskbar > Chọn Install AltStore > iPhone/iPad của bạn.
+
+Bước 3. Tiến hành đăng nhập bằng Apple ID của bạn. Quá trình cài đặt AltStore trên iPhone của bạn sẽ được diễn ra.
+
+Bước 4. Sau khi iPhone của bạn hiện ứng dụng AltStore trên màn hình chính thành công. Bạn cần tin cậy ứng dụng từ nhà phát triển.
+
+Bước 5. Bạn mở AltStore > Settings > đăng nhập tài khoản ID Apple đã sử dụng trước đó khi cài đặt công cụ từ máy tính.
+
+Bước 6. Tải file me.alfhaily.cercube_5.1.16_iphoneos-arm.ipa
+
+Bước 7. Bạn mở ứng dụng AltStore, chọn My Apps > bấm dấu + > Chọn tệp vừa tải về. Quá trình cài đặt Cercube sẽ diễn ra trong vài phút,
+bạn có thể dùng ngay ứng dụng khi hoàn tất quá trình cài đặt trong AltStore, mà không cần thực hiện lại thao tác tin cậy nhà phát triển trong Cài đặt.
