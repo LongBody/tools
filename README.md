@@ -12,7 +12,9 @@
 
 
 
-## <img src="./images/we-need-go-to-deeper.png" alt="" height="32" width="32"> We need to go deeper</span> 
+## 🚀 We need to go deeper</span> 
+
+<img src="./images/we-need-go-to-deeper.png" alt="" height="200" >
 
 
 ## Contributing
