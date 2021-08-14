@@ -33,3 +33,9 @@
 
 <p><a href="https://drive.google.com/drive/folders/10v5i1LA91wD5biobKQuC7u1R2gpwWrJx?usp=sharing">Google Driver</a></p>
 
+
+## 🖥️ Win10
+
+<p><a href="https://docs.google.com/uc?id=1_qHdog1BSQYt5YxThEqpyaTE0PkV-2fY">Google Driver</a></p>
+
+
