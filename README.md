@@ -7,7 +7,7 @@
 - iTunes
 <p><a href="">Google Driver</a></p>
 
-## <img src="./images/macos.png" alt="" style="max-width:100%;height: 35px;"> MacOS
+## <img src="./images/macos.png" alt="" style="max-width:100%;max-height: 35px;"> MacOS
 
 
 
