@@ -27,20 +27,7 @@
 </p>
 
 
-## Contributing
+## 💻 Another Apps
 
-
-
-### [Code of Conduct](https://code.fb.com/codeofconduct)
-
-
-### [Contributing Guide](https://reactjs.org/contributing/how-to-contribute.html)
-
-
-### Good First Issues
-
-
-
-### License
 
 
