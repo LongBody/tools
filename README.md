@@ -9,7 +9,7 @@
 
 ##  <img src="./images/macos.png" alt="" height="32" width="32"> MacOS</span> 
 
-
+<p><a href="https://drive.google.com/file/d/1T4p795aJHHNS-L2rjulv4EtO4LkJYy9m/view">MacOS BigSur</a></p>
 
 
 ## 🚀 We need to go deeper</span> 
@@ -32,4 +32,10 @@
 ## 💻 Another Apps
 
 <p><a href="https://drive.google.com/drive/folders/10v5i1LA91wD5biobKQuC7u1R2gpwWrJx?usp=sharing">Google Driver</a></p>
+
+
+## 🖥️ Win10
+
+<p><a href="https://docs.google.com/uc?id=1_qHdog1BSQYt5YxThEqpyaTE0PkV-2fY">Google Driver</a></p>
+
 
