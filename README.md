@@ -19,6 +19,14 @@
 </p>
 
 
+
+## 🚀 The Escapists 2</span> 
+
+<img src="./images/escapists2.png" alt="" height="200" >
+<p>Crew a submarine with friends in We Need To Go Deeper - a 2-4-player cooperative submarine roguelike set in a Verne-inspired undersea universe
+</p>
+
+
 ## Contributing
 
 
